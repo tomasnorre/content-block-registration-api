@@ -7,7 +7,7 @@
 
 ## ⚠️ Attention: This is the API for TYPO3 v11 ⚠️
 
-For **TYPO3 v12**, you can find the [github repository here](https://github.com/nhovratov/content-blocks) or on [TER here](https://extensions.typo3.org/extension/content_blocks/).
+For **TYPO3 v12**, you can find the [github repository here](https://github.com/FriendsOfTYPO3/content-blocks) or on [TER here](https://extensions.typo3.org/extension/content_blocks/).
 
 ## Introduction
 
